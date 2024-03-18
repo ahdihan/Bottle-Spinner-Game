@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/homeMenuId"
+            android:title="Home Theme"
+            android:icon="@drawable/theme1"
+            />
+
+
+        <item
+            android:id="@+id/Theme2Id"
+            android:title="Theme 2"
+            android:icon="@drawable/theme2"
+            />
+
+
+        <item
+            android:id="@+id/Theme3Id"
+            android:title="Theme 3"
+            android:icon="@drawable/theme3"
+            />
+
+
+
+
+    </group>
+
+    <item android:title="Communication">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/shareId"
+                android:title="Share"
+                android:icon="@drawable/ic_baseline_share_24"
+                />
+            <item
+                android:id="@+id/about_gameId"
+                android:title="About Game"
+                android:icon="@drawable/ic_baseline_videogame_asset_24"
+                />
+            <item
+                android:id="@+id/Rate_UsId"
+                android:title="Rate this app"
+                android:icon="@drawable/ic_baseline_star_rate_24"
+                />
+
+            </group>
+
+        </menu>
+
+    </item>
+
+</menu>

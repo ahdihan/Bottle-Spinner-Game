@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="450dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:textAlignment="center"
+    android:background="@drawable/nav_background2"
+    android:padding="10dp">
+<!--    android:background="@drawable/computer_img"-->
+
+    <ImageView
+
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/profile_pic"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bottle Spinner"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:fontFamily="cursive"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:paddingTop="8dp"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="V : 1.0"
+        android:textSize="30sp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#ED0909"
+        />
+
+</LinearLayout>

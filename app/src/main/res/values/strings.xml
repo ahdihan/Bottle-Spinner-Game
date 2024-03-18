@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bottle Spinner</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">CLose</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="howToPlayText">In the "Bottle Spinner Game" one Player click on the bottle and then
+        bottle starts spinning clock wise and also anti clock wise.The bottle then stops and shows one
+        action the player has to do the person whome the bottle points when it stops spinning.
+        The "ACTION" or "TASK" will given by the person at rear end of the bottle.\n </string>
+
+    <string name="aboutTheTheme">From Navigation Menu(Upper left corner icon) you can change the theme by clicking the "Theme"
+    Have fun by playing "BOTTLE SPINNER GAME"\n</string>
+
+
+</resources>
